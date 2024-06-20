@@ -3,3 +3,7 @@ segundo arquivo (corrigido)
 2. Arquivo que iremos trabalhar;
    
     versao 1: Craindo novo arquivo na pasta.
+
+3. Aquivo alterado versao 3
+    trabalhando dentro do VsCode e subindo os aquivos para git;
+    
