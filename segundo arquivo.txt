@@ -5,5 +5,7 @@ segundo arquivo (corrigido)
     versao 1: Craindo novo arquivo na pasta.
 
 3. Aquivo alterado versao 3
-    trabalhando dentro do VsCode e subindo os aquivos para git;
-    
+    - trabalhando dentro do VsCode e subindo os aquivos para git;
+
+4. Alteraão no aquivo da versa0 3 para versao 4
+    - realização de nova branch 17.18h   
