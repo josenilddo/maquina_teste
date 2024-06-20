@@ -1,0 +1,5 @@
+Aula : Criando um resposit´rio na maquina local
+
+1-primeiro aquivo:
+  Aqui usaremos o comando git init (enter)
+
