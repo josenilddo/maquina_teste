@@ -3,4 +3,12 @@ Aula : Criando um resposit´rio na maquina local
 1-primeiro aquivo original:
   
   Aqui usaremos o comando git init (enter) para cria um reposiorio local.
+====
+feita alterações com sucesso..
 
+2. Arquivo que iremos trabalhar;
+   
+    versao 1: Craindo novo arquivo na pasta.
+
+3. Aquivo alterado versao 3
+    - trabalhando dentro do VsCode e subindo os aquivos para git;
